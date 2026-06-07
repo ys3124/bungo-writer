@@ -16,8 +16,8 @@
 
 ### 1. リポジトリのクローン
 ```bash
-git clone https://github.com/your-username/bungo_writer.git
-cd bungo_writer
+git clone https://github.com/ys3124/bungo-writer.git
+cd bungo-writer
 ```
 
 ### 2. パッケージのインストール
